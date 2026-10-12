@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-styling {
+    background-color: #ffb6c1;
+    font-family: 'verdana', 'dejaVu Sans','sans-serif';
+}
+
+.large-size {
+    font-size: 24px;
+}
+
+#blue-id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#green-id {
+    background-color:#90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
